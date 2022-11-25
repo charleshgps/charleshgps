@@ -4,7 +4,9 @@
 + 🔍 Desenvolvedor Web Front-end 
 + 🎲 Analista de Dados
 + 🎓 Cursando ultimo perido de Analise e Desenvolvimento de Sistemas na Unifacear
-+ ☕ Amante de café
++ ☕ Apreciador de bom café
++ 🚵‍♂ Pedalar 🥾 Trilhar 🎮 Jogar
+
  
 <div>
  <h2>Minhas redes</h2>
