@@ -21,7 +21,7 @@
      <img width="35px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
    </a>
  </div>
-
+ 
  <h2>Tecnologias e ferramentas</h2>
  <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
