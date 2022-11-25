@@ -12,7 +12,7 @@
  <h2>Minhas redes</h2>
  <div>
    <a href="https://www.linkedin.com/in/charles-humberto-garcia-de-paula-silva-1693a4b6/">
-     <img width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />
+     <img width="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a href="https://www.instagram.com/charles_hgps/">
      <img width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
