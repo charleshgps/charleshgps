@@ -40,7 +40,8 @@
 
  <h2>Github Stats</h2>
  <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=charleshgps&show_icons=true&theme=dark&obsidian&include_all_commits=true&count_private=true"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=7&theme=dark&obsidian"/>
+   <img height="300px" width="300px" src="https://github-readme-stats.vercel.app/api?username=charleshgps&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   <img height="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="300px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=charleshgps&theme=nightowl"/>
  </div>
 </div>
