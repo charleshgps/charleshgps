@@ -4,7 +4,7 @@
 + 🔍 Desenvolvedor Web Front-end 
 + 🎲 Analista de Dados
 + 🎓 Cursando ultimo perido de Analise e Desenvolvimento de Sistemas na Unifacear
-+ ☕ Apreciador de bom café
++ ☕ Apreciador de um bom café
 + 🚵‍♂ Pedalar 🥾 Trilhar 🎮 Jogar
 
 <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=7&theme=nightowl"/>
