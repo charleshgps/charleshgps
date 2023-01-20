@@ -7,7 +7,7 @@
 + ☕ Apreciador de um bom café
 + 🚵‍♂ Pedalar 🥾 Trilhar 🎮 Jogar
 
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=168&theme=nightowl"/>
+<img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=168&theme=nightowl"/>
  
 <div>
  <h2>Minhas redes</h2>
@@ -41,7 +41,7 @@
 
  <h2>Github Stats</h2>
  <div align = "center">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=charleshgps&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+ <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charleshgps&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=charleshgps&theme=nightowl"/>
  </div>
 </div>
