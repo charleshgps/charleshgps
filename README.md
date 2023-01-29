@@ -1,11 +1,11 @@
 <h1>Olá! Me chamo Charles👋</h1>
 </br>
 
-+ 🔍 Desenvolvedor Web Front-end 
-+ 🎲 Analista de Dados
-+ 🎓 Cursando ultimo perido de Analise e Desenvolvimento de Sistemas na Unifacear
-+ ☕ Apreciador de um bom café
-+ 🚵‍♂ Pedalar 🥾 Trilhar 🎮 Jogar
+- 🔍 Desenvolvedor Web Front-end
+- 🎲 Analista de Dados
+- 🎓 Cursando ultimo perido de Analise e Desenvolvimento de Sistemas na Unifacear
+- ☕ Apreciador de um bom café
+- 🚵‍♂ Pedalar 🥾 Trilhar 🎮 Jogar
 
 <img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=168&theme=nightowl"/>
  
@@ -17,6 +17,9 @@
    </a>
    <a href="https://www.instagram.com/charles_hgps/">
      <img width="25px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+   </a>
+   <a href="https://app.netlify.com/teams/charleshgps/overview">
+     <img width="25px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" />
    </a>
    <a href="https://twitter.com/Charles65589416">
      <img width="25px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
