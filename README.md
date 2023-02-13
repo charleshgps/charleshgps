@@ -46,8 +46,10 @@
 
  <h2>Github Stats</h2>
  <div align = "center">
- <img height="165em" src="https://github-readme-activity-graph.cyclic.app/graph?username=charleshgps&theme=nightowl"/>
  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charleshgps&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=charleshgps&theme=nightowl"/>
+ </div>
+ <div align = "center">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charleshgps&theme=nightowl"/>
  </div>
 </div>
