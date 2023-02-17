@@ -3,7 +3,7 @@
 
 - 🔍 Desenvolvedor Web Front-end
 - 🎲 Analista de Dados
-- 🎓 Cursando ultimo perido de Analise e Desenvolvimento de Sistemas na Unifacear
+- 🎓 Cursando penultimo perido de Analise e Desenvolvimento de Sistemas na Unifacear
 - ☕ Apreciador de um bom café
 
 <img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=168&theme=dracula"/>
