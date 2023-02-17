@@ -6,7 +6,7 @@
 - 🎓 Cursando ultimo perido de Analise e Desenvolvimento de Sistemas na Unifacear
 - ☕ Apreciador de um bom café
 
-<img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=168&theme=nightowl"/>
+<img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charleshgps&layout=compact&langs_count=168&theme=dracula"/>
  
 <div>
  <h2>Minhas redes</h2>
@@ -41,15 +41,14 @@
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-   
- </div>
+   </div>
 
  <h2>Github Stats</h2>
  <div align = "center">
- <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charleshgps&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
- <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=charleshgps&theme=nightowl"/>
+ <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charleshgps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=charleshgps&theme=dracula"/>
  </div>
  <div align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charleshgps&theme=nightowl"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charleshgps&theme=dracula"/>
  </div>
 </div>
