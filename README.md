@@ -17,11 +17,11 @@
    <a href="https://www.instagram.com/charles_hgps/">
      <img width="25px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
    </a>
-   <a href="https://app.netlify.com/teams/charleshgps/overview">
-     <img width="25px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" />
-   </a>
    <a href="https://twitter.com/Charles65589416">
      <img width="25px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
+   </a>
+   <a href="https://app.netlify.com/teams/charleshgps/overview">
+     <img width="25px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" />
    </a>
  </div>
  
