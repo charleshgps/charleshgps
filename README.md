@@ -45,10 +45,10 @@
 
  <h2>Github Stats</h2>
  <div align = "center">
- <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charleshgps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=charleshgps&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charleshgps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=charleshgps&theme=tokyonight"/>
  </div>
  <div align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charleshgps&theme=dracula"/>
+ <img height="300em" src="https://github-readme-activity-graph.cyclic.app/graph?username=charleshgps&theme=dracula"/>
  </div>
 </div>
